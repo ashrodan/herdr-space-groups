@@ -1,0 +1,9 @@
+{
+  "auto": true,
+  "min": 2,
+  "separators": "-_.",
+  "groups": {
+    "globex": ["globex-*"]
+  },
+  "ignore": ["~"]
+}

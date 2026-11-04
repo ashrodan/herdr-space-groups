@@ -1,0 +1,4 @@
+node_modules/
+mods/spaces-groups/groups.json
+*.d.ts
+jsconfig.json
