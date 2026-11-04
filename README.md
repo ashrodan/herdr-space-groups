@@ -3,7 +3,7 @@
 Foldable groups in the Herdr app's Spaces sidebar. `globex-shop`, `globex-app`
 and `globex-billing` go under one **globex** header. Click the header to fold it.
 
-![Space groups: acme open, blog folded](preview.png)
+![Folding and opening groups in the Spaces sidebar](docs/demo.gif)
 
 - **Automatic groups:** spaces whose names share a prefix before `-`, `_` or
   `.` form a group when there are 2 or more of them.
